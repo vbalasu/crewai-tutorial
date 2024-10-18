@@ -1,0 +1,6 @@
+.DS_Store
+.env
+crewai-tutorial-notebooks.zip
+test.db
+venv/
+
