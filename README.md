@@ -2,14 +2,6 @@
 
 This repo contains notebooks from the DeepLearning.ai course on CrewAI
 
-[L2_research_write_article.ipynb](L2_research_write_article.ipynb)
-[L3_customer_support.ipynb](L3_customer_support.ipynb)
-[L4_tools_customer_outreach.ipynb](L4_tools_customer_outreach.ipynb)
-[L5_tasks_event_planning.ipynb](L5_tasks_event_planning.ipynb)
-[L6_collaboration_financial_analysis.ipynb](L6_collaboration_financial_analysis.ipynb)
-[L7_job_application_crew.ipynb](L7_job_application_crew.ipynb)
-
-
 ### Goal: port it to Ollama running locally
 
 Run a simple crew using Llama 3.1 70b running locally.
@@ -34,7 +26,3 @@ flowchart TB
 
     class B,D,F agent
 ```
-
-This is implemented in [synthetic-datagen.ipynb](synthetic-datagen.ipynb)
-
-For a simple Ollama invocation, see [invoke-ollama.py](invoke-ollama.py)
